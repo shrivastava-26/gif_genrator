@@ -1,15 +1,16 @@
 # 🎨 Random GIF Generator
 
-      A simple and elegant React application to fetch and display random GIFs from the Giphy API. Users can click the button to load a new GIF, ``````making the experience fun and interactive.
+ A simple and elegant React application to fetch and display random GIFs from the Giphy API. Users can click the button to load a new GIF, making the experience fun and interactive.
       
-      ![GitHub top language](https://img.shields.io/github/languages/top/your-username/random-gif-generator?style=flat-square) ![GitHub last commit]        (https://img.shields.io/github/last-commit/your-username/random-gif-generator?style=flat-square)
+ ![GitHub top language](https://img.shields.io/github/languages/top/your-username/random-gif-generator?style=flat-square) ![GitHub last commit]  
+ (https://img.shields.io/github/last-commit/your-username/random-gif-generator?style=flat-square)
 
 ## ✨ Features
 
-      - 🎥 Fetches a **random GIF** from the Giphy API.
-      - 🎨 **Full-screen layout** with centered content for a clean and appealing look.
-      - ⚡ Styled with **Tailwind CSS** for a responsive and modern design.
-      - 🔄 Easy-to-use interface with one-click GIF generation.
+ - 🎥 Fetches a **random GIF** from the Giphy API.
+ - 🎨 **Full-screen layout** with centered content for a clean and appealing look.
+ - ⚡ Styled with **Tailwind CSS** for a responsive and modern design.
+ - 🔄 Easy-to-use interface with one-click GIF generation.
 
 ---
 
@@ -27,7 +28,7 @@
 
 ## ⚙️ Getting Started
 
-    Follow these instructions to set up and run the project locally.
+Follow these instructions to set up and run the project locally.
 
 ### Prerequisites
 
@@ -71,9 +72,9 @@
 
 🛠️ Built With
 
-       React – JavaScript library for building user interfaces.
-       Axios – Promise-based HTTP client for making API requests.
-       Tailwind CSS – Utility-first CSS framework for modern UI design
+ React – JavaScript library for building user interfaces.
+ Axios – Promise-based HTTP client for making API requests.
+ Tailwind CSS – Utility-first CSS framework for modern UI design
 
 
 
