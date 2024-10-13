@@ -1,5 +1,4 @@
 import Random from './components/Random'
-import Tag from './components/Tag'
 
 
 export default function App() {
@@ -11,7 +10,6 @@ export default function App() {
         </h1>
         <div className=" flex flex-col">
           <Random/>
-          <Tag/>
         </div>
     </div>
   ) 
