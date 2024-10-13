@@ -72,9 +72,9 @@ Follow these instructions to set up and run the project locally.
 
 🛠️ Built With
 
- React – JavaScript library for building user interfaces.
- Axios – Promise-based HTTP client for making API requests.
- Tailwind CSS – Utility-first CSS framework for modern UI design
+       React – JavaScript library for building user interfaces.
+       Axios – Promise-based HTTP client for making API requests.
+       Tailwind CSS – Utility-first CSS framework for modern UI design
 
 
 
