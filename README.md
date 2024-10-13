@@ -1,9 +1,6 @@
 # 🎨 Random GIF Generator
 
  A simple and elegant React application to fetch and display random GIFs from the Giphy API. Users can click the button to load a new GIF, making the experience fun and interactive.
-      
- ![GitHub top language](https://img.shields.io/github/languages/top/your-username/random-gif-generator?style=flat-square) ![GitHub last commit]  
- (https://img.shields.io/github/last-commit/your-username/random-gif-generator?style=flat-square)
 
 ## ✨ Features
 
@@ -21,7 +18,9 @@
 ---
 
 ## 🖼️ Screenshots
-![Random GIF Generator](https://github.com/user-attachments/assets/71360590-b5c6-4a73-8f56-e1aa3d202ff8)
+
+![GIF Generator](https://github.com/user-attachments/assets/b5ac9e61-963c-499d-b493-9ad6b1ced556)
+
 
 
 ---
@@ -40,6 +39,7 @@ Follow these instructions to set up and run the project locally.
 
 1. Clone the repository:
    ```bash
+   
       git clone https://github.com/your-username/random-gif-generator.git
       cd random-gif-generator
    
