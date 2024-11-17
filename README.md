@@ -1,4 +1,4 @@
-# 🎨 Random GIF Generator
+# 🎨 Random GIF Generator ✅
 
  A simple and elegant React application to fetch and display random GIFs from the Giphy API. Users can click the button to load a new GIF, making the experience fun and interactive.
 
