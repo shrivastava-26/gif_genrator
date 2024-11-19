@@ -33,7 +33,7 @@ Follow these instructions to set up and run the project locally.
 
       - **Node.js** (v12 or higher)
       - **npm**
-      - **Giphy API Key** (Get it from [Giphy Developers](https://developers.giphy.com/))
+      - **Giphy API Key** (Get it from [Giphy Developers](https://developers.giphy.com/)).
 
 ### Installation
 
