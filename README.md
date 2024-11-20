@@ -7,7 +7,7 @@
  - 🎥 Fetches a **random GIF** from the Giphy API.
  - 🎨 **Full-screen layout** with centered content for a clean and appealing look.
  - ⚡ Styled with **Tailwind CSS** for a responsive and modern design.
- - 🔄 Easy-to-use interface with one-click GIF generation.
+ - 🔄 Easy-to-use interface with one-click GIF generation
 
 ---
 
